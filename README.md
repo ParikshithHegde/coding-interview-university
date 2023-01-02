@@ -84,7 +84,7 @@
 </div>
 
 ## What is it?
-
+- [x]
 ![Coding at the whiteboard - from HBO's Silicon Valley](https://d3j2pkmjtin6ou.cloudfront.net/coding-at-the-whiteboard-silicon-valley.png)
 
 This is my multi-month study plan for becoming a software engineer for a large company. 
@@ -108,7 +108,7 @@ For a complete CS self-taught program, the resources for my study plan have been
 ## Table of Contents
 
 ### The Study Plan
-
+- [x]
 - [What is it?](#what-is-it)
 - [Why use it?](#why-use-it)
 - [How to use it](#how-to-use-it)
